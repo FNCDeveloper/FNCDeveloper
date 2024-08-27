@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]!
+# 👋 Hey, I'm FNCDeveloper, but you can call me Ethan!
 
 I'm a **15-year-old developer** from the Netherlands 🇳🇱 with a passion for technology and problem-solving. Whether it's diving into the internals of software, crafting web apps, or exploring the world of game hacking, I'm always eager to learn and experiment.
 
